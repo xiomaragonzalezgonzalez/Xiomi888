@@ -16,7 +16,7 @@ I’m especially interested in cloud automation, infrastructure as code, and fin
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
 ![JS](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![ANGULAR](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
 
 
 ## 🌱 Things I want to continue learning:
@@ -26,15 +26,11 @@ I’m especially interested in cloud automation, infrastructure as code, and fin
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&Style=flat)
 
 ## ⚡ Certifications:
-<a href="https://www.credly.com/badges/336eebfc-0ac3-4553-9a67-b402f491f185/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="AZ-104" width="100" />
-</a>
-<a href="https://www.credly.com/badges/59db067c-f0e9-44a8-bcc7-53a960274bfb/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" alt="MS-700" width="100" />
-</a>
-<a href="https://www.credly.com/badges/daa0d89a-4348-4e39-a5ee-bb8f4313dddd/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/badges/daa0d89a-4348-4e39-a5ee-bb8f4313dddd/image" alt="AZ-305" width="100" />
-</a>
-<a href="https://www.credly.com/badges/cbdaae2b-08b5-40fe-949d-4256c02c1b1c/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/badges/cbdaae2b-08b5-40fe-949d-4256c02c1b1c/image" alt="AZ-140" width="100" />
-</a>
+
+[<img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="AZ-104" width="100"/>](https://www.credly.com/badges/your-badge-id-az104/public_url)
+[<img src="https://images.credly.com/images/59db067c-f0e9-44a8-bcc7-53a960274bfb/CERT-Associate-Microsoft365-Teams-Administrator.png" alt="MS-700" width="100"/>](https://www.credly.com/badges/your-badge-id-ms700/public_url)
+[<img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="AZ-305" width="100"/>](https://www.credly.com/badges/cbdaae2b-08b5-40fe-949d-4256c02c1b1c/public_url)
+[<img src="https://images.credly.com/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png" alt="AZ-140" width="100"/>](https://www.credly.com/badges/daa0d89a-4348-4e39-a5ee-bb8f4313dddd/public_url)
+
+
+
