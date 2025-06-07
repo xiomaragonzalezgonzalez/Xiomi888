@@ -1,11 +1,10 @@
 ## Hello there! ☁
 
-Hi! My name is Xiomara and I am a cloud computing administrator. I hold the official Microsoft Certifications of Azure
-Administrator and Teams Administrator. Over the past 5 years I have worked as management consultant. In particular, I
-have focused on logistics management in the retail sector.
+👋 Hi there! I'm a career switcher who transitioned from business consulting to tech and it's been an exciting ride! My journey began with self-learning to code and later completed a cloud administrator bootcamp, which opened the door to my first tech role as a Junior Infrastructure Engineer at The Royal Opera House. With +3 years of hands on cloud experience, I’ve supported AWS and Azure environments, written automation scripts for cloud deployments, and focused on building secure, reliable, and cost-effective infrastructure.
 
-Some time ago, I decided to shift my career towards the IT sector, one of my passions in life. Now, I am looking for new
-opportunities as cloud computing administrator both as in-house and as external consultant.
+I possess a comprehensive understanding of the business landscape, allowing me to collaborate closely with senior level, globally situated peers across various lines of business, and effectively convey technical concepts to both technical and non-technical stakeholders, bridging the gap between business and technology, to deliver solutions that not only meet technical requirements but also align with overarching business objectives, providing innovative and effective solutions that enable clients to achieve their business outcomes. 
+
+I’m especially interested in cloud automation, infrastructure as code, and finding smart ways to make systems more efficient and scalable. I'm passionate about learning, growing, and contributing to projects that make a real impact. It’s been a great journey so far and I’m just getting started 🚀☁️.
 
 ## 💼  Things that I'm currently working on:
 
