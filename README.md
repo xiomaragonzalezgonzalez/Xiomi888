@@ -6,9 +6,20 @@ I possess a comprehensive understanding of the business landscape, allowing me t
 
 I’m especially interested in cloud automation, infrastructure as code, and finding smart ways to make systems more efficient and scalable. I'm passionate about learning, growing, and contributing to projects that make a real impact. It’s been a great journey so far and I’m just getting started 🚀☁️.
 
+
 ## 💼  Things that I'm currently working on:
 
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-4285F4?logo=microsoft%20azure&logoColor=white&style=flat)
+![PowerShell](https://img.shields.io/badge/-powershell-5391FE?logo=PowerShell&logoColor=white&Style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?logo=Amazon%20aws&logoColor=#232F3E&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&Style=flat)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-8A2BE2?logo=openai&logoColor=white&style=flat)
+![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F61?logo=python&logoColor=white&style=flat)
+
+
+## 🌱 Things I want to continue learning:
+
 ![Java](https://img.shields.io/badge/-java-white?logo=java&logoColor=black&Style=flat)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&Style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -16,14 +27,7 @@ I’m especially interested in cloud automation, infrastructure as code, and fin
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
 ![JS](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![ANGULAR](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
 
-
-## 🌱 Things I want to continue learning:
-![PowerShell](https://img.shields.io/badge/-powershell-5391FE?logo=PowerShell&logoColor=white&Style=flat)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?logo=Amazon%20aws&logoColor=#232F3E&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&Style=flat)
 
 ## ⚡ Certifications:
 
